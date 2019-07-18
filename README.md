@@ -11,7 +11,7 @@
   - *pedestrian_detect.py*：参考别人的基于haarcascade的行人检测。
   - *frame_cas.py*：自己改写的基于帧间差分算法和haarcascade的行人检测。
 - *hls*：
-  - *top.cpp*、*top.h*：soyrce文件。
+  - *top.cpp*、*top.h*：source文件。
   - *test.cpp*：测试文件。
   - *xilinx_com_hls_hls_counter_color1_1_0*帧间差分算法的IP核。
 - *vivado*：*fd.tcl*、*fd.bit*。
