@@ -34,7 +34,7 @@ hls部分：
 
 5.ip核生成前要经过编译、c仿真、c和RTL联合仿真。
 
-block desgn部分：
+block design部分：
 
 1.要实现整个功能需要搭建硬件通路。
 
