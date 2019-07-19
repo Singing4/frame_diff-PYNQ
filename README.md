@@ -89,5 +89,6 @@ BibTeX:
 
 > *framep.py*、*pedestrian_detect.py*
 
-##贡献者
+## 贡献者：
+
 贾广瑞、赵帆、杨悦、陈欣怡
